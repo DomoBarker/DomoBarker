@@ -1,16 +1,11 @@
-## Hi there 👋
+Hiya, Im Dominic Barker!
+I'm working on becoming a PenTester and overall proficient in CyberSec.
+I have done several studies already for through DOD and already have my Secret Clearance.
+I work on linux as now and really put myself is situatons where I can learn from my/others mistakes.
 
-<!--
-**DomoBarker/DomoBarker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some Things About Me:
+- I'm a father of 3
+- Love to brake things and figure out how they work
+- ENERGY DRINKS! (Alani is the best)
+- Hyperfocus on tasks when they intrest or irriate me
+- I DO NOT LOOK MY AGE AT ALL (28)

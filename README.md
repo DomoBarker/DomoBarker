@@ -1,5 +1,5 @@
 Hiya, Im Dominic Barker!
-I'm working on becoming a PenTester and overall proficient in CyberSec.
+I'm working on becoming a Software Engineer.
 I have done several studies already for through DOD and already have my Secret Clearance.
 I work on linux as now and really put myself is situatons where I can learn from my/others mistakes.
 
